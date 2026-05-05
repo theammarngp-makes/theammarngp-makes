@@ -8,7 +8,7 @@ I build analytics projects that turn raw data into business insights through SQL
 [![SQL](https://img.shields.io/badge/SQL-MySQL-black?style=for-the-badge&logo=mysql&logoColor=00758F)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=blue)](https://www.tableau.com/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Graphics-4C78A8?style=for-the-badge)](https://seaborn.pydata.org/)
 [![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
