@@ -1,9 +1,15 @@
-# Mohammad Ammar
+# Hi, I'm Mohammad Ammar 👋
 
-Aspiring Data Analyst and Data Scientist focused on SQL, Python, Pandas, and Tableau.
-I build analytics projects that turn raw data into business insights through SQL, Python, dashboards, and business storytelling.
+Aspiring Data Analyst from Nagpur, India.
+I build end-to-end analytics projects — from raw SQL queries 
+to Tableau dashboards — focused on real business problems.
 
-## Skills
+Currently seeking a **paid Data Analyst internship** where I can 
+contribute immediately with SQL, Python, and data storytelling.
+
+
+
+## 🛠 Skills
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-black?style=for-the-badge&logo=mysql&logoColor=00758F)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -11,28 +17,32 @@ I build analytics projects that turn raw data into business insights through SQL
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=blue)](https://www.tableau.com/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Graphics-4C78A8?style=for-the-badge)](https://seaborn.pydata.org/)
-[![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theammarngp-makes)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theammarngp-makes)
 
-## Selected Projects
 
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [Olist Sales Analysis](https://github.com/theammarngp-makes/olist-sales-analysis) | Revenue analysis, regional performance, KPI tracking, and dashboard reporting | `SQL` `Python` `Pandas` `Tableau` |
-| [E-Commerce Cohort Retention Analysis](https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis) | Cohort analysis, customer retention patterns, and repeat behavior insights | `SQL` `Python` `Tableau` |
-| [E-Commerce RFM Customer Segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | Customer segmentation, loyalty analysis, and business recommendations | `SQL` `Python` `Pandas` `Tableau` |
-| [Daily Reflection Tree](https://github.com/theammarngp-makes/daily-reflection-tree) | Structured logic design, decision flow modeling, and system thinking | `Python` `FastAPI` `JSON` |
 
-## Current Focus
+## 📊 Featured Projects
 
-- Data Analyst internships
-- Data Science internships
-- End-to-end analytics projects with clear business value
+| Project | What it answers | Stack |
+|---|---|---|
+| [Olist Sales Analysis](https://github.com/theammarngp-makes/olist-sales-analysis) | Which categories & regions drive 80% of revenue? | `SQL` `Python` `Pandas` `Tableau` |
+| [Cohort Retention Analysis](https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis) | Why do 96%+ customers never return after first purchase? | `SQL` `Python` `Tableau` |
+| [RFM Customer Segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | Who are the high-value vs at-risk customers? | `SQL` `Python` `Pandas` `Tableau` |
+| [Daily Reflection Tree](https://github.com/theammarngp-makes/daily-reflection-tree) | Python CLI app for daily journaling with branching logic | `Python` `FastAPI` `JSON` |
 
-## Connect
 
-- Email: [theammarngp@gamil.com](mailto:theammarngp@gamil.com)
-- LinkedIn: [mohammad-ammar-ngp](https://www.linkedin.com/in/mohammad-ammar-ngp/)
-- GitHub: [theammarngp-makes](https://github.com/theammarngp-makes)
 
-If you are a recruiter or hiring manager, the best starting point is the project table above.
+## 📈 GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theammarngp-makes&theme=tokyo-night&hide_border=true)
+
+## 📬 Connect With Me
+
+- 📧 Email: [theammarngp@gmail.com](mailto:theammarngp@gmail.com)
+- 💼 LinkedIn: [mohammad-ammar-ngp](https://www.linkedin.com/in/mohammad-ammar-ngp/)
+- 🐙 GitHub: [theammarngp-makes](https://github.com/theammarngp-makes)
+
+
+
+*If you're a recruiter — start with the project table above.
+Each project links directly to the repo with full documentation.*
