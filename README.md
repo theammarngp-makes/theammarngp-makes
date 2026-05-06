@@ -31,10 +31,16 @@ contribute immediately with SQL, Python, and data storytelling.
 | [RFM Customer Segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | Who are the high-value vs at-risk customers? | `SQL` `Python` `Pandas` `Tableau` |
 | [Daily Reflection Tree](https://github.com/theammarngp-makes/daily-reflection-tree) | Python CLI app for daily journaling with branching logic | `Python` `FastAPI` `JSON` |
 
-
-
 ## 📈 GitHub Stats
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theammarngp-makes&theme=tokyo-night&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theammarngp-makes&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theammarngp-makes&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
 
 ## 📬 Connect With Me
 
