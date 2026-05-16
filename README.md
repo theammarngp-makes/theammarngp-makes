@@ -7,7 +7,7 @@ to Tableau dashboards — focused on real business problems.
 Currently seeking a **paid Data Analyst internship** where I can 
 contribute immediately with SQL, Python, and data storytelling.
 
-# 🌐 Website : https://theammarngp-makes.github.io
+-- # 🌐 Website : 
 
 ## 🛠 Skills
 
