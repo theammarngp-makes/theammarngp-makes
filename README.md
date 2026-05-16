@@ -7,8 +7,6 @@ to Tableau dashboards — focused on real business problems.
 Currently seeking a **paid Data Analyst internship** where I can 
 contribute immediately with SQL, Python, and data storytelling.
 
--- # 🌐 Website : 
-
 ## 🛠 Skills
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-black?style=for-the-badge&logo=mysql&logoColor=00758F)](https://www.mysql.com/)
