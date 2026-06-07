@@ -3,7 +3,7 @@
 Aspiring Data Analyst from Nagpur, India.
 I build end-to-end analytics projects — from raw SQL queries 
 to Tableau dashboards — focused on real business problems.
-# Website🌐 : theammarngp-makes.github.io
+# Website🌐 : https://theammarngp-makes.github.io
 Currently seeking a **paid Data Analyst internship** where I can 
 contribute immediately with SQL, Python, and data storytelling.
 
