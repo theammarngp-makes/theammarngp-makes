@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Pandas+%7C+Tableau;Building+Analytics+Projects"/>
 </p>
+
 # About me
+
 Hi, I'm Mohammad Ammar 👋
 Aspiring Data Analyst from Nagpur, India.
 I build end-to-end analytics projects — from raw SQL queries 
