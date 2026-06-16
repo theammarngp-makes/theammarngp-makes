@@ -39,7 +39,7 @@ contribute immediately with SQL, Python, and data storytelling.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theammarngp-makes&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-
+![Snake animation](https://github.com/theammarngp-makes/theammarngp-makes/blob/output/github-contribution-grid-snake.svg)
 ## 📬 Connect With Me
 
 - 📧 Email: [theammarngp@gmail.com](mailto:theammarngp@gmail.com)
