@@ -1,5 +1,10 @@
-# Hi, I'm Mohammad Ammar 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:2563eb&text=Mohammad%20Ammar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Pandas+%7C+Tableau;Building+Analytics+Projects"/>
+</p>
+# About me
+Hi, I'm Mohammad Ammar 👋
 Aspiring Data Analyst from Nagpur, India.
 I build end-to-end analytics projects — from raw SQL queries 
 to Tableau dashboards — focused on real business problems.
@@ -39,14 +44,14 @@ contribute immediately with SQL, Python, and data storytelling.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theammarngp-makes&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-![Snake animation](https://github.com/theammarngp-makes/theammarngp-makes/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theammarngp-makes/theammarngp-makes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ## 📬 Connect With Me
 
 - 📧 Email: [theammarngp@gmail.com](mailto:theammarngp@gmail.com)
 - 💼 LinkedIn: [mohammad-ammar-ngp](https://www.linkedin.com/in/mohammad-ammar-ngp/)
 - 🐙 GitHub: [theammarngp-makes](https://github.com/theammarngp-makes)
-
-
 
 *If you're a recruiter — start with the project table above.
 Each project links directly to the repo with full documentation.*
