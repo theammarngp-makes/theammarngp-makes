@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:2563eb&text=Mohammad%20Ammar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:2563eb&text=Mohammad%20Ammar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Pandas+%7C+Tableau;Building+Analytics+Projects"/>
 </p>
 
-# About me
+## About me
 
 Hi, I'm Mohammad Ammar 👋
 Aspiring Data Analyst from Nagpur, India.
