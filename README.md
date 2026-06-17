@@ -1,9 +1,9 @@
-<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,100:2563eb&text=Mohammad%20Ammar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Pandas+%7C+Tableau;Building+Analytics+Projects"/>
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,100:2563eb&text=Mohammad%20Ammar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Pandas+%7C+Tableau;Building+Analytics+Projects"/>
+  
 ## About me
 
 Hi, I'm Mohammad Ammar 👋
@@ -24,7 +24,6 @@ contribute immediately with SQL, Python, and data storytelling.
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Graphics-4C78A8?style=for-the-badge)](https://seaborn.pydata.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theammarngp-makes)
-
 
 
 ## 📊 Featured Projects
@@ -48,12 +47,25 @@ contribute immediately with SQL, Python, and data storytelling.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/theammarngp-makes/theammarngp-makes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-## 📬 Connect With Me
 
-- 📧 Email: [theammarngp@gmail.com](mailto:theammarngp@gmail.com)
-- 💼 LinkedIn: [mohammad-ammar-ngp](https://www.linkedin.com/in/mohammad-ammar-ngp/)
-- 🐙 GitHub: [theammarngp-makes](https://github.com/theammarngp-makes)
+- ## Let's Connect
+
+<p align="center">
+<a href="mailto:theammarngp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammad-ammar-ngp/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/theammarngp-makes">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
 
 *If you're a recruiter — start with the project table above.
 Each project links directly to the repo with full documentation.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,100:2563eb"/>
