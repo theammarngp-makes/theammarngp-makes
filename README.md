@@ -31,6 +31,7 @@ contribute immediately with SQL, Python, and data storytelling.
 | Project | What it answers | Stack |
 |---|---|---|
 | [Olist Sales Analysis](https://github.com/theammarngp-makes/olist-sales-analysis) | Which categories & regions drive 80% of revenue? | `SQL` `Python` `Pandas` `Tableau` |
+| [SQL Engineering Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | A structured knowledge base of advanced SQL, performance tuning, data modeling, and real-world query design.  | `SQL` `MYSQL` `Git` `GitHub` |
 | [Cohort Retention Analysis](https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis) | Why do 96%+ customers never return after first purchase? | `SQL` `Python` `Tableau` |
 | [RFM Customer Segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | Who are the high-value vs at-risk customers? | `SQL` `Python` `Pandas` `Tableau` |
 | [Daily Reflection Tree](https://github.com/theammarngp-makes/daily-reflection-tree) | Python CLI app for daily journaling with branching logic | `Python` `FastAPI` `JSON` |
