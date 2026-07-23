@@ -18,7 +18,7 @@
 
 I'm a Data Analyst from Nagpur, India, who builds end-to-end analytics — from raw SQL queries to Tableau dashboards — around real business problems, and writes curriculum-grade SQL content on the side.
 
-- 🎓 Second-year **ENTC (Electronics & Telecommunication Engineering)** student at **ACET, Nagpur** (RTMNU) — SGPA 8.53 (Sem 1), 7.86 (Sem 2)
+- 🎓 Second-year ** Engineering ** student at **Nagpur**  — SGPA 8.53 (Sem 1), 7.86 (Sem 2)
 - 🔭 Co-founder — Execution & Lead Data Analyst at **[Apex Analyticx](https://github.com/Apex-Analyticx-group)**, a freelance venture delivering data analytics and other services to businesses
 - 🏙️ Building **NagpurLens**, an open-source urban intelligence platform mapping infrastructure gaps across Nagpur
 - 📚 Author of the **[SQL Engineering Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook)**, a 20+ module production-grade SQL curriculum
@@ -135,12 +135,11 @@ A freelance venture offering multiple services to businesses, including data ana
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theammarngp-makes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=theammarngp-makes&theme=tokyonight&hide_border=true" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theammarngp-makes&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=theammarngp-makes&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 <img src="https://raw.githubusercontent.com/theammarngp-makes/theammarngp-makes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
