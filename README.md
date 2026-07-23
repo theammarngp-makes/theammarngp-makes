@@ -18,7 +18,8 @@
 
 I'm a Data Analyst from Nagpur, India, who builds end-to-end analytics — from raw SQL queries to Tableau dashboards — around real business problems, and writes curriculum-grade SQL content on the side.
 
-- 🔭 Co-founder — Execution & Lead Data Analyst at **Apex Analyticx**, a freelance venture delivering data analytics and other services to businesses
+- 🎓 Second-year **ENTC (Electronics & Telecommunication Engineering)** student at **ACET, Nagpur** (RTMNU) — SGPA 8.53 (Sem 1), 7.86 (Sem 2)
+- 🔭 Co-founder — Execution & Lead Data Analyst at **[Apex Analyticx](https://github.com/Apex-Analyticx-group)**, a freelance venture delivering data analytics and other services to businesses
 - 🏙️ Building **NagpurLens**, an open-source urban intelligence platform mapping infrastructure gaps across Nagpur
 - 📚 Author of the **[SQL Engineering Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook)**, a 20+ module production-grade SQL curriculum
 - 🎯 Currently seeking a **paid Data Analyst internship** where I can contribute from day one with SQL, Python, and data storytelling
@@ -39,6 +40,8 @@ I'm a Data Analyst from Nagpur, India, who builds end-to-end analytics — from 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=blue)](https://www.tableau.com/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=flat-square)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Graphics-4C78A8?style=flat-square)](https://seaborn.pydata.org/)
+<br/><br/>
+<sub><b>SQL depth:</b> Joins · Subqueries · CTEs · Window Functions · Query Optimization · Data Modeling · GROUP BY/HAVING · CASE WHEN</sub>
 
 </td>
 <td valign="top" width="33%">
@@ -66,10 +69,11 @@ I'm a Data Analyst from Nagpur, India, who builds end-to-end analytics — from 
 
 <br/>
 
-## 📜 Certifications
+## 📜 Certifications & Externships
 
 - HackerRank — SQL (Advanced)
 - HackerRank — SQL (Basic)
+- **Zetheta Algorithms** — Certificate of Project Work Experience, *Data Analyst Securitisation* (Data Analyst role, 15 full-time days equivalent) — IFRS 9 ECL modeling, DAX, star schema, and Python analytics on real auto loan data
 
 <br/>
 
@@ -78,6 +82,8 @@ I'm a Data Analyst from Nagpur, India, who builds end-to-end analytics — from 
 **Co-founder — Execution & Lead Data Analyst**
 
 A freelance venture offering multiple services to businesses, including data analytics — I lead execution and the data analytics function.
+
+[![Apex Analyticx](https://img.shields.io/badge/GitHub-Apex--Analyticx--group-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apex-Analyticx-group)
 
 <br/>
 
