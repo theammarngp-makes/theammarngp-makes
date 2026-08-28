@@ -20,8 +20,8 @@ I'm a Data Analyst from Nagpur, India, who builds end-to-end analytics — from 
 
 - 🎓Engineering  **B.tech** student at **Nagpur**  — SGPA 8.53 (Sem 1), 7.86 (Sem 2)
 - 🔭 Co-Founder — Data Analyst & Managing Partner at **[Apex Analyticx](https://github.com/Apex-Analyticx-group)**, a freelance venture delivering data analytics and other services to businesses
-- 🏙️ Building **NagpurLens**, an open-source urban intelligence platform mapping infrastructure gaps across Nagpur
 - 📚 Creator of the opensource **[SQL Engineering Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook)**, a 20+ module production-grade SQL curriculum
+- 🏙️ Building **NagpurLens**, an open-source urban intelligence platform mapping infrastructure gaps across Nagpur
 - 🎯 Currently seeking a **paid Data Analyst internship** where I can contribute from day one with SQL, Python, and data storytelling
 
 <br/>
