@@ -137,6 +137,9 @@ A freelance venture offering multiple services to businesses, including data ana
 
 <br/>
 
+## Opensource :
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/theammarngp-makes/badge.svg)](https://hub.xerj.org/contributors/theammarngp-makes)
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -152,6 +155,8 @@ A freelance venture offering multiple services to businesses, including data ana
 </div>
 
 <br/>
+
+
 
 ## 🤝 Let's Connect
 
